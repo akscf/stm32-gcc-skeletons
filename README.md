@@ -1,2 +1,1 @@
-# stm32 skeletons for gnu toolchain  
-
+# stm32 skeletons for gcc/clang
